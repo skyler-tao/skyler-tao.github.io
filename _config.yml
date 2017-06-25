@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 陶超强的个人博客
+subtitle: 迷茫的时代努力成为一个明白人！
+welcome_message: 欢迎来到我的个人博客页，希望能多多交流
+description: 专注大数据平台开发、Java 后端，对搜索、商业广告相关技术栈感兴趣。
+creator: <a href="http://taochaoqiang.github.io">@taochaoqiang</a>
 
-url: "http://vno.onevcat.com"
+url: "http://taochaoqiang.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/taochaoqiang'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 陶超强
+    github: taochaoqiang
+    twitter: ChaoqiangT
+    gplus: 117827906093140303441
+    mail: taochqang@gmail.com
 
 # Google Analytics
 ga:
