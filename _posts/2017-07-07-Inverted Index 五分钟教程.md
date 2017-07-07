@@ -1,6 +1,8 @@
 ---
 layout: post
-title:
+title: Inverted Index 五分钟教程
+date: 2017-07-07 10:00:00.000000000 +08:00
+tags: inverted-index index druid
 ---
 
 ## Example
